@@ -1,9 +1,9 @@
 ## Danyel Martins 
-Opa! Sou Danyel Martins, estudante de Engenharia da Computacao na busca por mais conhecimento na area de programacao.
+Opa! Sou Danyel Martins, estudante de Engenharia da Computacao na busca por mais conhecimento na area de programação.
 
 ## Sobre Mim 😎 
-- 📝 Graduante em Engenharia da Computacao na UNIFEI (Universidade Federal de Itajuba) - Campus Itabira
-- 🔭 Atualmente estudando a area de BackEnd
+- 📝 Graduante em Engenharia da Computação na UNIFEI (Universidade Federal de Itajuba) - Campus Itabira
+- 🔭 Atualmente estudando a área de BackEnd
   
 📫 Contato:
   <div style="display: inline_block">
