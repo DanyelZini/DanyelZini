@@ -2,8 +2,8 @@
 Opa! Sou Danyel Martins, estudante de Engenharia da Computacao na busca por mais conhecimento na area de programação.
 
 ## Sobre Mim 😎 
-- 📝 Graduante em Engenharia da Computação na UNIFEI (Universidade Federal de Itajuba) - Campus Itabira
-- 🔭 Atualmente estudando a área de BackEnd
+- 📝 Graduante em Engenharia da Computação no CEFET - MG - Campus Timóteo
+- 🔭 Atualmente estudando a área de BackEnd 
   
 📫 Contato:
   <div style="display: inline_block">
@@ -16,7 +16,8 @@ Opa! Sou Danyel Martins, estudante de Engenharia da Computacao na busca por mais
 #### ⌨️ Linguagens de programação
 <div style="display: inline_block">
   <img align="center" alt="Rafa-Js" height="30" width="75" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <img align="center" alt="Rafa-Csharp" height="30" width="75" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+  <img align="center" alt="Rafa-Csharp" height="30" width="75" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img align="center" alt="Rafa-Csharp" height="30" width="75" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img align="center" alt="Rafa-Csharp" height="30" width="75" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img align="center" alt="Rafa-Csharp" height="30" width="75" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
@@ -25,14 +26,14 @@ Opa! Sou Danyel Martins, estudante de Engenharia da Computacao na busca por mais
 
 #### 🎰 Frameworks
 <div style="display: inline_block">
-  <img align="center" alt="Rafa-Js" height="30" width="85" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
-  <img align="center" alt="Rafa-Js" height="30" width="85" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">  
+  <img align="center" alt="Rafa-Js" height="30" width="85" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
+  <img align="center" alt="Rafa-Js" height="30" width="85" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">  
 </div>
 
 <br>
 
 #### 🪛 Ferramentas usadas
 <div style="display: inline_block">
-  <img align="center" alt="Rafa-Js" height="30" width="145" src="https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg">
+  <img align="center" alt="Rafa-Js" height="30" width="95" src="https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)">
   <img align="center" alt="Rafa-Js" height="30" width="125" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">  
 </div>
