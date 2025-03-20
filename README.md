@@ -27,7 +27,7 @@ Opa! Sou Danyel Martins, estudante de Engenharia da Computacao na busca por mais
 #### 🎰 Frameworks
 <div style="display: inline_block">
   <img align="center" alt="Rafa-Js" height="30" width="85" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
-  <img align="center" alt="Rafa-Js" height="30" width="85" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">  
+  <img align="center" alt="Rafa-Js" height="30" width="95" src="https://img.shields.io/badge/angular-20232A?style=for-the-badge&logo=angular&logoColor=61DAFB">  
 </div>
 
 <br>
