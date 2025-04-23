@@ -15,10 +15,11 @@ Opa! Sou Danyel Martins, estudante de Engenharia da Computacao na busca por mais
 
 #### ⌨️ Linguagens de programação
 <div style="display: inline_block">
+  <img align="center" alt="Rafa-C" height="30" width="60" src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
   <img align="center" alt="Rafa-Js" height="30" width="75" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img align="center" alt="Rafa-CSharp" height="30" width="80" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
   <img align="center" alt="Rafa-Csharp" height="30" width="75" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
-  <img align="center" alt="Rafa-Csharp" height="30" width="75" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img align="center" alt="Rafa-Csharp" height="30" width="75" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img align="center" alt="Rafa-Csharp" height="30" width="85" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img align="center" alt="Rafa-Csharp" height="30" width="75" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
 
@@ -27,7 +28,7 @@ Opa! Sou Danyel Martins, estudante de Engenharia da Computacao na busca por mais
 #### 🎰 Frameworks
 <div style="display: inline_block">
   <img align="center" alt="Rafa-Js" height="30" width="85" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
-  <img align="center" alt="Rafa-Js" height="30" width="95" src="https://img.shields.io/badge/angular-20232A?style=for-the-badge&logo=angular&logoColor=61DAFB">  
+  <img align="center" alt="Rafa-React" height="30" width="95" src="https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 </div>
 
 <br>
