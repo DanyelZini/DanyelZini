@@ -1,40 +1,100 @@
-## Danyel Martins 
-Opa! Sou Danyel Martins, estudante de Engenharia da Computacao na busca por mais conhecimento na area de programação.
+# Olá, eu sou Danyel Martins Zini Silva 👋
 
-## Sobre Mim 😎 
-- 📝 Graduante em Engenharia da Computação no CEFET - MG - Campus Timóteo
-- 🔭 Atualmente estudando a área de BackEnd 
-  
-📫 Contato:
-  <div style="display: inline_block">
-    <a href="https://www.linkedin.com/in/danyel-martins-65759a252/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-    <a href="mailto:danyelzini1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  </div>
+Sou estudante de **Engenharia de Computação** no **CEFET-MG – Campus Timóteo** e apaixonado por desenvolvimento de software.
 
-## Conhecimento 🎩
+Tenho interesse principalmente em **desenvolvimento Full-Stack**, com maior afinidade pelo **Back-end**, além de arquitetura de software, APIs REST, automação de processos e desenvolvimento de aplicações escaláveis.
 
-#### ⌨️ Linguagens de programação
-<div style="display: inline_block">
-  <img align="center" alt="Rafa-C" height="30" width="60" src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
-  <img align="center" alt="Rafa-Js" height="30" width="75" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <img align="center" alt="Rafa-CSharp" height="30" width="80" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-  <img align="center" alt="Rafa-Csharp" height="30" width="75" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
-  <img align="center" alt="Rafa-Csharp" height="30" width="85" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img align="center" alt="Rafa-Csharp" height="30" width="75" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+Estou sempre buscando aprender novas tecnologias e aprimorar minhas habilidades por meio de projetos pessoais e acadêmicos.
+
+---
+
+## 📫 Contato
+
+<div>
+  <a href="https://www.linkedin.com/in/danyel-martins-65759a252/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+
+  <a href="mailto:danyelzini1@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
 </div>
 
-<br>
+---
 
-#### 🎰 Frameworks
-<div style="display: inline_block">
-  <img align="center" alt="Rafa-Js" height="30" width="85" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
-  <img align="center" alt="Rafa-React" height="30" width="95" src="https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+# 💻 Tecnologias
+
+### Linguagens
+
+<div>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+
 </div>
 
-<br>
+### Frameworks
 
-#### 🪛 Ferramentas usadas
-<div style="display: inline_block">
-  <img align="center" alt="Rafa-Js" height="30" width="95" src="https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)">
-  <img align="center" alt="Rafa-Js" height="30" width="125" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">  
+<div>
+
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
+
+<img src="https://img.shields.io/badge/Django_REST_Framework-A30000?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
+
 </div>
+
+### Banco de Dados
+
+<div>
+
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+
+<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
+
+</div>
+
+### Ferramentas
+
+<div>
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+
+<img src="https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white">
+
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white">
+
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+
+</div>
+
+---
+
+## 📚 Atualmente estudando
+
+* Arquitetura de Software
+* Desenvolvimento Full-Stack
+* APIs REST
+* Engenharia de Software
+* Clean Architecture
+* Docker
